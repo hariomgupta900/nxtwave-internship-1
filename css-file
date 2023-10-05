@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.page-background {
+    background-color: #222222;
+
+}
+
+.button {
+    background-color: #ee6060;
+    color: #ffffff;
+    border-radius: 16px;
+
+}
+
+.image-1 {
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
+
+.room-text {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 22px;
+}
+
+.slider-img {
+    height: 30%;
+    width: 30%;
+}
+
+
+
+.contact-section-heading {
+    font-size: 22px;
+    color: #ffffff;
+    font-family: Roboto;
+}
+
+.contact-section-desc {
+    font-size: 8px;
+    color: #ffffff;
+    font-family: Roboto;
+}
+
+.contact-section-card-image {
+    height: 24%;
+    width: 24%;
+}
+
+.history-sec-img {
+    height: 100%;
+    width: 100%;
+}
+
+.history-sec-heading {
+    color: #ffffff;
+    font-size: 22px;
+
+}
+
+.history-sec-text {
+    color: #ffffff;
+    font-size: 12px;
+}
