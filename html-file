@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="container page-background ">
+        <div class="row mb-2">
+            <div class="col-3 ml-auto">
+                <button class="btn button pl-3 pr-3 m-1 ">login</button>
+            </div>
+        </div>
+
+
+
+
+        <div class="row mb-5">
+            <div class="col-12">
+                <img src="https://res.cloudinary.com/dlih2yayy/image/upload/v1696470209/hotel-homepage-internship/mpda3tmr89ycxvqetbfp.png" class="image-1">
+            </div>
+
+            <div class="col-12">
+                <p class="room-text">Our most popular rooms</p>
+                <div class="col-3 ml-auto mb-2">
+                    <button class="btn button">View all</button>
+                </div>
+
+                <div class="d-flex flex-row">
+                    <img src="https://res.cloudinary.com/dlih2yayy/image/upload/v1696478891/hotel-homepage-internship/uj9glghll5uirq6ekv8i.png" class="slider-img m-1">
+
+                    <img src="https://res.cloudinary.com/dlih2yayy/image/upload/v1696479320/hotel-homepage-internship/lyvjmqwpxo8e4ggnkdf6.png" class="slider-img m-1 ">
+
+                    <img src="https://res.cloudinary.com/dlih2yayy/image/upload/v1696478891/hotel-homepage-internship/opphzebk02gb2gxpkgjt.png" class="slider-img m-1">
+                </div>
+            </div>
+        </div>
+
+
+        <div class="row mb-4">
+            <div class="col-4">
+                <h1 class="contact-section-heading">We do our best facilities provide you</h1>
+                <p class="contact-section-desc">Discover your ideal heaven:Find your perfect stay at Golden sands Resort</p>
+                <div>
+                    <button class="btn button">Contact Now</button>
+                </div>
+            </div>
+
+            <div class="col-8">
+                <div>
+                    <img src="https://res.cloudinary.com/dlih2yayy/image/upload/v1696470197/hotel-homepage-internship/rydkcqydjg2dythuqcbu.png" class=" contact-section-card-image mb-2">
+                    <img src="https://res.cloudinary.com/dlih2yayy/image/upload/c_crop,g_auto,h_1200,w_1200/hotel-homepage-internship/zx7pnfwnzrk1sq5adzle.jpg" class="contact-section-card-image mb-2" style=" border-radius:4px">
+                    <img src="https://res.cloudinary.com/dlih2yayy/image/upload/v1696470196/hotel-homepage-internship/d4bulsvk0md52uv0odrp.png" class="contact-section-card-image mb-2">
+                    <img src="https://res.cloudinary.com/dlih2yayy/image/upload/v1696470195/hotel-homepage-internship/sa17hhekk4ockg9odahd.png" class="contact-section-card-image mb-2">
+                    <img src="https://res.cloudinary.com/dlih2yayy/image/upload/v1696470195/hotel-homepage-internship/yo6bmdmyi7kqzrmykbcn.png" class="contact-section-card-image mb-2">
+                    <img src="https://res.cloudinary.com/dlih2yayy/image/upload/v1696470194/hotel-homepage-internship/bgnemnlkpgtqufaag4ah.png" class="contact-section-card-image mb-2">
+                    <img src="https://res.cloudinary.com/dlih2yayy/image/upload/v1696470194/hotel-homepage-internship/ytcyhsjfrxatgsqhybbf.png" class="contact-section-card-image mb-2">
+                    <img src="https://res.cloudinary.com/dlih2yayy/image/upload/v1696470194/hotel-homepage-internship/s6mzdrvviyjpnntlzk22.png" class="contact-section-card-image mb-2">
+                </div>
+            </div>
+
+        </div>
+
+
+
+        <div class="row">
+            <div class="col-6">
+                <img src="https://res.cloudinary.com/dlih2yayy/image/upload/v1696470196/hotel-homepage-internship/hnpshzvrcrd8jv6eyx1m.png" class="history-sec-img">
+            </div>
+
+            <div class="col-6">
+                <h1 class="history-sec-heading">Discover our history</h1>
+                <p class="history-sec-text">Golden sands resort has a rich history dating back over a century.Originally a grand mission,it transformed into a distinguished hotel.</p>
+                <p class="history-sec-text">Welcoming esteemed guests and witnessing significant moments,it has evolved while preserving its historic charm.today,it stands as an icon of luxury,offering a perfect blend of heritage and contemparory hospitality </p>
+            </div>
+        </div>
+    </div>
+
+
+
+
+</body>
+
+
+</html>
